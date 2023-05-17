@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<array>
+		<dict>
+			<key>image</key>
+			<string>https://tiebapic.baidu.com/forum/w%3D580%3B/sign=af6746edd613b07ebdbd50003cec9323/91ef76c6a7efce1bc9830906ea51f3deb58f6556.jpg?tbpicau=2023-05-19-05_75d68506440611145ea3e5a73f769d79</string>
+			<key>level</key>
+			<string>3</string>
+			<key>step</key>
+			<string>10</string>
+		</dict>
+	</array>
+</dict>
+</plist>
